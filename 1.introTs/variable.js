@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var name = 'Akash';
+name = "Virat";
+var myNum = 23;
+myNum = 30;
+var isLoggedIn = false;
+isLoggedIn = true;
+var numberMy = 37;
+numberMy.toFixed();
