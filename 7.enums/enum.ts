@@ -1,4 +1,4 @@
-// By using the Enums we can Retrict the user with our Given Values
+// By using the Enums we can Restrict the user with our Given Values
 
 // By Putting the const we can reduce the Amount of code in the Javascript 
 const enum UserSeat {

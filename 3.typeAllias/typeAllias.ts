@@ -17,7 +17,7 @@ type Account = {
     email : string;
     isActive : boolean;
     cardDetails? : number;      // If we have cardDetails then takes the details 
-}                                   // If we dont have any details then doesnot gives error
+}                                   // If we dont have any details then doesn't gives error
 
 let myUser : Account = {
     _id : "1234",
